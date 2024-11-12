@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Fabián Velásquez
+<img src="BannerGitHub.jpg">
 
-### Software Developer | MostroDev
+# 👋 ¡Hola! Soy Fabian Velasquez
+
+### Software Developer
 
 > "Impulsando la calidad en el desarrollo de software con precisión y creatividad."
 
@@ -8,14 +10,14 @@
 
 ### 🚀 Acerca de Mí
 
-Soy desarrollador de software apasionado por la tecnología y el aprendizaje constante. Actualmente estoy estudiando ingeniería de sistemas y tengo experiencia en desarrollo frontend con **React**, backend con **Python y Flask**, y bases de datos con **MySQL**. Mi misión es crear soluciones de software de alta calidad que aporten valor a las empresas y a los usuarios finales.
+Soy desarrollador fullstack con un enfoque fuerte en el frontend. Me apasiona explorar nuevas tecnologías y optimizar cada detalle en el desarrollo de interfaces. Mi stack principal incluye React, JavaScript, HTML5, CSS3, Java y C#, herramientas con las que busco crear experiencias de usuario eficientes y modernas. Actualmente, curso estudios en ingeniería de sistemas, complementando mi experiencia en el desarrollo de software y mi habilidad para integrar soluciones robustas que aporten valor tanto a empresas como a usuarios finales.
 
 ### 🔧 Tecnologías y Herramientas
 
 - **Lenguajes**: JavaScript, Python, Java, C#
 - **Frontend**: React, HTML5, CSS3
 - **Backend**: Flask
-- **Bases de Datos**: MySQL
+- **Bases de Datos**: MySQL. PostgrSQL, MicrosoftSQL
 - **Otras Herramientas**: VS Code, Git/GitHub, Postman, Azure DevOps
 
 ### 🌐 Sitio Web
@@ -24,13 +26,8 @@ Visita mi portafolio en [mostro.dev](https://www.mostro.dev) para ver algunos de
 
 ### 📫 Conectemos
 
-- [LinkedIn](https://www.linkedin.com/in/fabián-velásquez)
-- [Correo](mailto:tuemail@example.com)
-
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark&count_private=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+- [LinkedIn](https://www.linkedin.com/in/fabianvegadev)
+- [Correo](fabianvegadev@gmail.com)
 
 ---
 
