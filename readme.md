@@ -10,7 +10,7 @@ Soy desarrollador fullstack con un enfoque fuerte en el frontend. Me apasiona ex
 
 - **Lenguajes**: JavaScript, Python, Java, C#
 - **Frontend**: React, HTML5, CSS3
-- **Backend**: Flask
+- **Backend**: Flask, Python, Java, C#
 - **Bases de Datos**: MySQL. PostgrSQL, MicrosoftSQL
 - **Otras Herramientas**: VS Code, Git/GitHub, Postman, Azure DevOps
 
