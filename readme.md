@@ -2,12 +2,6 @@
 
 # 👋 ¡Hola! Soy Fabian Velasquez
 
-### Software Developer
-
-> "Impulsando la calidad en el desarrollo de software con precisión y creatividad."
-
----
-
 ### 🚀 Acerca de Mí
 
 Soy desarrollador fullstack con un enfoque fuerte en el frontend. Me apasiona explorar nuevas tecnologías y optimizar cada detalle en el desarrollo de interfaces. Mi stack principal incluye React, JavaScript, HTML5, CSS3, Java y C#, herramientas con las que busco crear experiencias de usuario eficientes y modernas. Actualmente, curso estudios en ingeniería de sistemas, complementando mi experiencia en el desarrollo de software y mi habilidad para integrar soluciones robustas que aporten valor tanto a empresas como a usuarios finales.
